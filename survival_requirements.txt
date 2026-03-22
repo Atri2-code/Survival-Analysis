@@ -1,0 +1,18 @@
+# Clinical Trial Survival Analysis Pipeline
+# Install all packages in R with:
+# install.packages(c("survival", "survminer", "ggplot2", "dplyr", "tidyr",
+#                    "flexsurv", "broom", "gridExtra", "knitr", "scales",
+#                    "survRM2", "ggfortify"))
+
+survival
+survminer
+ggplot2
+dplyr
+tidyr
+flexsurv
+broom
+gridExtra
+knitr
+scales
+survRM2
+ggfortify
